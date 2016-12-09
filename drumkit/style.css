@@ -1,0 +1,26 @@
+body {
+	background: url('bg.jpeg') no-repeat;
+	background-size: cover;
+	min-height: 100vh;
+}
+
+.keys {
+	margin-top: 50%;
+	text-align: center;
+}
+
+.key {
+	color: white;
+	background: black;
+	opacity: 0.5;
+	font-size: 2em;
+	border: 2px solid black;
+	border-radius: 5px;
+	padding: 2%;
+	margin: 2%;
+	transition: all 0.07s ease;
+}
+
+.playing {
+	border: 2px solid yellow;
+}
