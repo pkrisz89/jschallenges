@@ -6,3 +6,4 @@
 4. Day 4 : Array excercises part One
 5. Day 5 : Flexbox panels image gallery
 6. Day 6 : Typeahead
+7. Day 7 : Array excercises part Two
