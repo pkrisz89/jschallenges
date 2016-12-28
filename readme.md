@@ -7,3 +7,4 @@
 5. Day 5 : Flexbox panels image gallery
 6. Day 6 : Typeahead
 7. Day 7 : Array excercises part Two
+8. Day 8 : Html5 Canvas
