@@ -8,3 +8,4 @@
 6. Day 6 : Typeahead
 7. Day 7 : Array excercises part Two
 8. Day 8 : Html5 Canvas
+9. Day 9 : Checkbox Fun
