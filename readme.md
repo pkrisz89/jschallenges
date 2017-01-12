@@ -9,3 +9,4 @@
 7. Day 7 : Array excercises part Two
 8. Day 8 : Html5 Canvas
 9. Day 9 : Checkbox Fun
+10. Day 10 : Key Sequence Detection Added
